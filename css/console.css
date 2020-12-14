@@ -1,0 +1,18 @@
+body {
+    color: azure;
+}
+
+.input_command input[type="text"] {
+    flex: 1;
+    background: transparent !important;
+    border: none;
+    outline: none;
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.input_command {
+    position: fixed;
+    bottom: 0;
+}
